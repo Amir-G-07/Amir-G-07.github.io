@@ -152,14 +152,14 @@ body {
 }
 
 /* Create three equal columns that floats next to each other */
-.column {
+.overmij {
   float: left;
   width: 33.33%;
   padding: 15px;
 }
 
 /* Clear floats after the columns */
-.row::after {
+.hobbies {
   content: "";
   display: table;
   clear: both;
