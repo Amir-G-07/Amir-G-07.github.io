@@ -28,7 +28,7 @@
   }
   
   li a:hover {
-    background-color: rgb(0, 30, 128); /* achtergrond kleur van index/home page */
+    background-color: rgb(128, 0, 23); /* kleur van de menu als je erop klikt dus als je naar kleurmodellen wilt en op de menu klikt komt er een kleur die */
   }
 
 
@@ -38,7 +38,7 @@
 
   .body2 {
     background-color:darkgoldenrod;
-    color: aqua; /* kleur van actergrond pagine */
+    color: aqua; /* kleur van kleurmoddelen actergrond */
 }
 
 .button {
