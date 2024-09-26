@@ -85,14 +85,14 @@ body {
 }
 
 
-/* Style the header */
+/* stijl van koptekst */
 .header {
   background-color: #f1f1f1;
   padding: 20px;
   text-align: center;
 }
 
-/* Style the top navigation bar */
+/* Stijl van de navigatorbar */
 .topnav {
   overflow: hidden;
   background-color: #333;
@@ -108,27 +108,27 @@ body {
   text-decoration: none;
 }
 
-/* Change color on hover */
+/* kleur van de hover */
 .topnav a:hover {
   background-color: #ddd;
   color: black;
 }
 
-/* Create three equal columns that floats next to each other */
+/* zorg ervoor dat de colomen naast erklaar blijven */
 .volgorde {
   float: left;
   width: 33.33%;
   padding: 15px;
 }
 
-/* Clear floats after the columns */
+/* Duidelijke drijvers na de kolommen*/
 .row::after {
   content: "";
   display: table;
   clear: both;
 }
 
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+/* Responsieve lay-out - zorgt ervoor dat de drie kolommen op elkaar worden gestapeld in plaats van naast elkaar */
 @media screen and (max-width:600px) {
   .column {
     width: 100%;
