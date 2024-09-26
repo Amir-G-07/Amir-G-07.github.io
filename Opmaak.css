@@ -37,8 +37,8 @@
 
 
   .body2 {
-    background-color:black;
-    color: aqua;
+    background-color:darkgoldenrod;
+    color: aqua; /* kleur van actergrond pagine */
 }
 
 .button {
