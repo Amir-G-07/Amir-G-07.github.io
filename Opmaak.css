@@ -100,6 +100,12 @@ div.desc {
   text-align: center;
 }
 
+
+
+
+
+<style>
+
 * {
   box-sizing: border-box;
 }
@@ -115,13 +121,13 @@ body {
   text-align: center;
 }
 
-/* Stijl van  navigation bar */
+/* Style van  navigation bar */
 .topnav {
   overflow: hidden;
   background-color: #333;
 }
 
-/* Stijl van de topnav links */
+/* Stijl van de links */
 .topnav a {
   float: left;
   display: block;
@@ -131,7 +137,7 @@ body {
   text-decoration: none;
 }
 
-/* kleur van hover */
+/* kleur hover */
 .topnav a:hover {
   background-color: #ddd;
   color: black;
@@ -144,22 +150,19 @@ body {
   padding: 15px;
 }
 
-/* Duidelijke drijvers na de kolommen */
+/* Duidelijke drijvers na de kolommen*/
 .row::after {
   content: "";
   display: table;
   clear: both;
 }
 
-/*zorgt ervoor dat de drie kolommen op elkaar worden gestapeld in plaats van naast elkaar */
+/* zorgt ervoor dat de drie kolommen op elkaar worden gestapeld in plaats van naast elkaar */
 @media screen and (max-width:600px) {
   .column {
     width: 100%;
   }
 }
-
-
-
 
 
 .fotokleurmodellen{
