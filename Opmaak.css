@@ -54,11 +54,13 @@
 
 
 .fotokleurmodellen{
-float: rig
-
-
-.fotokleurmodellen{
   float: right;
+}
+
+
+
+.kleurmodellenfoto2{
+  float: ;
 }
 
 
@@ -118,6 +120,8 @@ h1{
   border-style: double;
   border-color: aliceblue;
   border-width: 8px;
+  color: black;
+  margin-left: 20px;/* kleur van de tekst*
 }
 /* tekst van h2 naar links gaat*/
 h2{
