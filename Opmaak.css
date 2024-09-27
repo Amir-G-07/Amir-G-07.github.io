@@ -87,6 +87,7 @@ h2{
   border-color: beige;
   border-style: dashed;
   border-width: 7px;
+text-align: left; /* tekst van h2 naar links gaat*/
 }
 
 
@@ -119,11 +120,7 @@ h1{
   border-width: 8px;
   color: black;
   margin-left: 20px;/* kleur van de tekst*
-}
-/* tekst van h2 naar links gaat*/
-h2{
-  text-align: left;
-}
+
 
 
 /* Footer */
@@ -132,11 +129,7 @@ h2{
   text-align: center;
   background: #ddd;
   margin-top: 20px;
-}
-/* achtergrond kleur van footer*/
-}
-.footer{
   background-color: aqua;
 }
+/* achtergrond kleur van footer*/
 
-}
