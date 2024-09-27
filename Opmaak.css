@@ -188,7 +188,7 @@ body {
 /* Kleur van hover */
 .topnav a:hover {
   background-color: rgb(255, 255, 255);
-  color: black;
+  color: rgb(0, 0, 0);
 }
 
 /* Maak drie gelijke kolommen die naast elkaar zweven */
