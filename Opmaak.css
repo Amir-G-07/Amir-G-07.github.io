@@ -164,3 +164,13 @@ body {
     width: 100%;
   }
 }
+
+.fotokleurmodellen{
+  float: right;
+
+}
+
+.kleurmodellenfoto2{
+  float: inline-end;
+
+}
