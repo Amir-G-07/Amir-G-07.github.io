@@ -38,8 +38,7 @@
 
   .body2 {
     background-color:rgb(123, 160, 217); /* kleur van kleurmoddelen actergrond */
-  
-  color: rgb(221, 221, 28); /* kleur van tekst */
+   color: rgb(221, 221, 28); /* kleur van tekst */
   }
 
 .button {
@@ -65,9 +64,7 @@ float: right;
 
 
 
-.fotobinar{
-float: inline-end;
-}
+
 /* dat de foto naar de midden gaat*/
 .uitlegfoto{
   float: center;
