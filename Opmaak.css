@@ -104,8 +104,8 @@ div.desc {
 
 
 
-<style>
 
+<style>
 * {
   box-sizing: border-box;
 }
@@ -163,7 +163,7 @@ body {
     width: 100%;
   }
 }
-
+</style>
 
 .fotokleurmodellen{
   float: right;
