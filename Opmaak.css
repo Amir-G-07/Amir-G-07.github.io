@@ -108,20 +108,20 @@ body {
   margin: 0;
 }
 
-/* stijl van koptekst */
+/* Stijl van header */
 .header {
   background-color: #f1f1f1;
   padding: 20px;
   text-align: center;
 }
 
-/* Stijl van de navigatorbar */
+/* Stijl van  navigation bar */
 .topnav {
   overflow: hidden;
   background-color: #333;
 }
 
-/* Style van de topnav links */
+/* Stijl van de topnav links */
 .topnav a {
   float: left;
   display: block;
@@ -135,60 +135,6 @@ body {
 .topnav a:hover {
   background-color: #ddd;
   color: black;
-}
-
-/* Duidelijke drijvers na de kolommen */
-.volgorde{
-  float: left;
-  width: 33.33%;
-  padding: 15px;
-}
-
-/* Duidelijke drijvers na de kolommen */
-.row::after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-
-
-
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-}
-
-/* Style the header */
-.header {
-  background-color: #f1f1f1;
-  padding: 20px;
-  text-align: center;
-}
-
-/* Style the top navigation bar */
-.topnav {
-  overflow: hidden;
-  background-color: #333;
-}
-
-/* Style the topnav links */
-.topnav a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-/* Kleur van hover */
-.topnav a:hover {
-  background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
 }
 
 /* Maak drie gelijke kolommen die naast elkaar zweven */
@@ -205,12 +151,17 @@ body {
   clear: both;
 }
 
-/* Responsieve lay-out - zorgt ervoor dat de drie kolommen op elkaar worden gestapeld in plaats van naast elkaar*/
+/*zorgt ervoor dat de drie kolommen op elkaar worden gestapeld in plaats van naast elkaar */
 @media screen and (max-width:600px) {
   .column {
     width: 100%;
   }
 }
+
+
+
+
+
 .fotokleurmodellen{
   float: right;
 
