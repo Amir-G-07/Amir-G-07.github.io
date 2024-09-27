@@ -78,6 +78,16 @@ float: inline-end;
   float: center;
 }
 
+div.gallery { /*dit zorgt ervoor dat de plaatje naast elkaar staan*/
+  margin: 45px; /*ruimte tussen pagina's*/
+  float: left; /*plaatjes staan links van de pagina*/
+  width: 350px; 
+}
+
+div.gallery img { 
+  width: 100%;
+  height: auto; }
+
 
 
 
