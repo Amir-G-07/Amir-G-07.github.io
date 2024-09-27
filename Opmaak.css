@@ -116,11 +116,14 @@ h2{
 
 }
 }
-
+/* Alle tekst van H1 naar de midden gaat*/
 h1{
   text-align: center;
 }
-
+/* tekst van h2 naar links gaat*/
+h2{
+  text-align: left;
+}
 
 
 /* Footer */
