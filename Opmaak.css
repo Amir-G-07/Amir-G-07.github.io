@@ -73,7 +73,7 @@ body {
 .fotobinar{
 float: inline-end;
 }
-
+/* dat de foto naar de midden gaat*/
 .uitlegfoto{
   float: center;
 }
