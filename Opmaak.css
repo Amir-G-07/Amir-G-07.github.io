@@ -123,13 +123,14 @@ h1{
 
 
 
-/* Footer */
-.footer {
+
+
+/* Style the footer */
+footer {
+  background-color: #2097dc;
   padding: 20px;
   text-align: center;
-  background: #36acc9;
-  margin-top: 20px;
-  background-color: aqua; /* achtergrond kleur van footer*/
+  color: rgb(214, 37, 25);
 }
 }
 
