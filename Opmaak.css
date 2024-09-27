@@ -104,16 +104,17 @@ div.desc {
 
 
 
-h2{
-  background-color: gold;
+
+
+
+div {
+  border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 35px;
+  padding-bottom: 50px;
+  padding-left: 80px;
 }
-
-p{
-  background-color: aquamarine;
-}
-
-
-
 
 
 
