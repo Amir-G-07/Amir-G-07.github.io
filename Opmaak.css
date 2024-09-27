@@ -116,7 +116,9 @@ h2{
 }
 
 .kleurmodellenfoto2{
-  float: inline-end;
+  display: block;
+  margin-left: auto;
+  right: auto;
 
 }
 }
