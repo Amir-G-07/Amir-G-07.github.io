@@ -37,9 +37,10 @@
 
 
   .body2 {
-    background-color:darkgoldenrod;
-    color: aqua; /* kleur van kleurmoddelen actergrond */
-}
+    background-color:rgb(123, 160, 217); /* kleur van kleurmoddelen actergrond */
+  
+  color: rgb(221, 221, 28); /* kleur van tekst */
+  }
 
 .button {
   background-color: blue; /* de actergrond kleur van de button naar de speeltje*/
