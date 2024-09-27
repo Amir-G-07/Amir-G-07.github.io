@@ -127,14 +127,14 @@ h1{
 
 /* dit zorgt ervoor dat er onder op pagina tekst komt met andere kleur */
 /* Footer */
-.footer {
+.footer{
   padding: 20px;
   text-align: center;
   background: #910e0e;
-  margin-top: 20px;
-}
+  margin-top: 20px
 }
 
+}
 
 
 
