@@ -129,7 +129,8 @@ h1{
   text-align: center;
   background: #ddd;
   margin-top: 20px;
-  background-color: aqua;
+  background-color: aqua; /* achtergrond kleur van footer*/
 }
-/* achtergrond kleur van footer*/
 
+}
+}
