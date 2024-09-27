@@ -132,11 +132,11 @@ h2{
   text-align: center;
   background: #ddd;
   margin-top: 20px;
-}
+  
 /* achtergrond kleur van footer*/
+}
 .footer{
   background-color: aqua;
 }
-
 }
 }
