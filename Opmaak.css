@@ -120,12 +120,14 @@ column {
 }
 
 .tekstkleurmodellen1{
-width: 40%;
-}
-
-.tekstkleurmodellen2{
 width: 50%;
 }
+
+
+.tekstkleurmodellen2{
+  width: 40%;
+}
+
 
 
 
