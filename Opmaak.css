@@ -2,10 +2,7 @@
     background-color: rgb(50, 53, 140); /* achtergrond kleur*/
   }
   
-  h1 {
-    color: black;
-    margin-left: 20px;/* kleur van de tekst*/
-  }
+  
 
   ul {
     list-style-type: none;
@@ -83,7 +80,7 @@ div.gallery img {
   height: auto; }
 
 
-  /* een lijntje om de h1 teksten*/
+  
 
 /* een lijntje om de h2 teksten*/
 h2{
@@ -111,9 +108,10 @@ h2{
   display: block; /* een lijntje om de h1 teksten*/
   margin-left: auto;
   right: auto;
+  color: black;
+  margin-left: 20px;/* kleur van de tekst*/
+}
 
-}
-}
 /* Alle tekst van H1 naar de midden gaat*/
 h1{
   text-align: center;
