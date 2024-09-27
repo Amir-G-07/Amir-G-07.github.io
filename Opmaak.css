@@ -62,13 +62,7 @@ float: right;
 
 
 
-* {
-  box-sizing: border-box;
-}
 
-body {
-  margin: 0;
-}
 
 .fotobinar{
 float: inline-end;
