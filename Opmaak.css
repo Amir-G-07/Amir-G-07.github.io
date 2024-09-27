@@ -79,7 +79,9 @@ div.gallery { /*dit zorgt ervoor dat de plaatje naast elkaar staan*/
 div.gallery img { 
   width: 100%;
   height: auto; }
-/* een lijntje om de h1 teksten*/
+
+
+  /* een lijntje om de h1 teksten*/
 h1{
   border-style: double;
   border-color: aliceblue;
