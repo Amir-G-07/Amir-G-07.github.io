@@ -106,7 +106,18 @@ div {
 
 
 
+column {
+  float: left; 
+  width: 20%; /*hoeveel de tekst van de pagina opneemt*/
+  padding: 15px; /*dit zorgt ervoor dat 2 stukken tekst niet onder elkaar maar naast elkaar staan*/
+}
 
+
+.row::after { /*zorgt voor ruimte tussen de twee teksten*/
+  content: "";
+  display: table;
+  clear: both;
+}
 
 
 
