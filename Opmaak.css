@@ -127,10 +127,13 @@ h1{
 .footer {
   padding: 20px;
   text-align: center;
-  background: #ddd;
+  background: #36acc9;
   margin-top: 20px;
   background-color: aqua; /* achtergrond kleur van footer*/
 }
+
+
+
 
 }
 }
