@@ -83,41 +83,6 @@ float: inline-end;
 
 
 
-p {
-  border: 2px solid rgb(0, 0, 0);
-  outline: #af4c68 solid 10px;
-  margin: auto;  
-  padding: 20px;
-  text-align: left;
-  background-color: rgb(255, 127, 146);
-}
-
-
-
-
-div {
-  border: 1px solid black;
-  background-color: lightblue;
-  padding-top: 50px;
-  padding-right: 35px;
-  padding-bottom: 50px;
-  padding-left: 80px;
-}
-
-
-
-column {
-  float: left; 
-  width: 20%; /*hoeveel de tekst van de pagina opneemt*/
-  padding: 15px; /*dit zorgt ervoor dat 2 stukken tekst niet onder elkaar maar naast elkaar staan*/
-}
-
-
-.row::after { /*zorgt voor ruimte tussen de twee teksten*/
-  content: "";
-  display: table;
-  clear: both;
-}
 
 .tekstkleurmodellen1{
 width: 50%;
